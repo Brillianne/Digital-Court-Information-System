@@ -2,10 +2,10 @@ Digital Court Case System is a modern information management system offering one
 
 Technologies Used
 
-Java
-MySQL
+Java, MySQL
 
 Screenshots
+
 Login
 ![image](https://user-images.githubusercontent.com/33745365/184508001-c9a152b2-76d1-43e8-ab7c-7d88065f7a44.png)
 Admin page
