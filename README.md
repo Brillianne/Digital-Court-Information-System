@@ -6,7 +6,7 @@ Java, MySQL
 
 Setup
 
-Netbeans, WAMPServer
+Netbeans, XAMPP
 
 Screenshots
 
