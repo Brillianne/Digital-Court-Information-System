@@ -1,6 +1,7 @@
 Digital Court Case System is a modern information management system offering one information system for all court cases. It enables registration of all court cases, hearing and judgments, creation and publication of summons and judgments.and entering basic data about participants of the proceeding and content of the claim (including related documents and files).
 
 Technologies Used
+
 Java
 MySQL
 
