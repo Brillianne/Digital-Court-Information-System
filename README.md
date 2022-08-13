@@ -4,6 +4,10 @@ Technologies Used
 
 Java, MySQL
 
+Setup
+
+Netbeans, WAMPServer
+
 Screenshots
 
 Login
